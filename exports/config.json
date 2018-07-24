@@ -1,5 +1,5 @@
 {
   "token": "Your discord bot token",
-  
+  "ownerID": "You can get this by using the command -idof"
   "Prefix": "-"
 }
